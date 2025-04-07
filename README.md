@@ -2,8 +2,6 @@
 
 ## Project Description
 
-## Project Description
-
 This project showcases the provisioning and configuration of an **Amazon EC2** instance within a custom **Virtual Private Cloud (VPC)** to host a static website. The solution prioritizes automation and security, utilizing **EC2 user data** to streamline the setup of the **Apache web server**. This approach avoids the complexity of CloudFormation templates while maintaining adherence to AWS best practices for **network architecture** and **security group configuration**. 
 
 The instance is configured to serve the static HTML content from the standard Apache document root, **/var/www/html**. This project demonstrates a secure, scalable, and cost-effective method for hosting static websites on AWS.
