@@ -1,4 +1,4 @@
-# AWS Deploy a Static Websiteon Amazon EC2 with Apache #
+# AWS Deploy a Static Website on Amazon EC2 with Apache #
 
 ## Project Description
 
