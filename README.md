@@ -23,7 +23,7 @@ The instance is configured to serve the static HTML content from the standard Ap
 
 ## Complete Project
 
-[![Complete Project .PDF](https://img.shields.io/badge/-Complete%20Project%20.PDF-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=orange)](https://github.com/juleannynavas/AWS-static-website-amazon-ec2-with-apache)
+[![Complete Project .PDF](https://img.shields.io/badge/-Complete%20Project%20.PDF-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=orange)](https://github.com/juleannynavas/AWS-static-website-amazon-ec2-with-apache/blob/main/AWS%20Static%20Web%20Page%20-%20EC2%20-%20Apache.pdf)
 
 ## Acknowledgments
 
